@@ -10,3 +10,5 @@ Comandos GIT
 8 - git add . #envia todos os arquivos modificados para à área de stadding
 9 - git checkout projetoPrincipal #Sai da branch main e vai para a branch projetoPrincipal
 10 - git merge projetoPrincipal # junta tudo que foi feito na branch projetoPrincipal com a brach main (para dar esse comando é necessário estar na brach que será modificada, no caso a "main")
+11 - git clone https://github.com/rafaballerini/GitTutorial.git #Faz o download do repositório do github para a pasta em que for executado
+12 - git pull #faz a atualização dos arquivos que ja estão baixados na pasta
